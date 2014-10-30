@@ -14,7 +14,7 @@ Configured directory layout is like this.
        |    `-- my.js
        `-- asserts
             |-- css
-	    `-- js
+            `-- js
 
 The main purpose of this module is to prepare how to configure express in ver.4 because I don't remember it :-P.
 
