@@ -3,6 +3,7 @@ Easy-express is a light-weigth generator for express app having pre-configured m
 Generated apps support as follow.
 - jade template engine
 - stylus and coffee-script with [assets-pipeline](https://github.com/adunkman/connect-assets)
+- memory session and enable it in jade template
 
 Configured directory layout is like this.
 

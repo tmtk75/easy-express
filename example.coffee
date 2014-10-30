@@ -1,5 +1,5 @@
 #!/usr/bin/env coffee
-easy = require("./init")(__dirname)
+easy = require("./easy")(__dirname)
 
 easy.jade.filters.some = (block, args)->
   "#{block}, #{args.type}"
