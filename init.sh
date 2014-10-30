@@ -15,7 +15,6 @@ cat<<EOF > package.json
   "name": "foobar",
   "version": "0.1.0",
   "dependencies": {
-    "easy-express": "*",
     "coffee-script": "*"
   }
 }
